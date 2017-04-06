@@ -13,3 +13,7 @@ div:nth-of-type(3){
     float:right;
     background:yellow;
 }
+a{
+    text-decoration:none;
+    line-height:20px;
+}
